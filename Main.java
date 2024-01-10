@@ -26,7 +26,7 @@ public class Main {
             }
         }
         System.out.println();
-        System.out.println("En çok kullanılan kelime : "+ mostRepeatedWord+ " , " +mostRepeatedTimes + " kere metinde geçiyor");
+        System.out.println("En çok kullanılan kelime : "+ "' " +mostRepeatedWord+   " '" + " ve  " +mostRepeatedTimes + " kere metinde geçiyor");
         System.out.println();
         System.out.println("Metindeki kelimelerin hashmap ile metinde geçme sıklıklarıyla kaydedilmiş hali: ");
         System.out.println();
